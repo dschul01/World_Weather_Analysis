@@ -11,4 +11,4 @@ The image below shows all markers meeting the weather parameters entered by the 
 The images below shows a suggested travel itinerary based on selecting four cities traveler would like to visit.
 ![WeatherPy_travel_map.png](https://github.com/dschul01/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-<img src="https://github.com/dschul01/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="800" height="400">
+<img src="https://github.com/dschul01/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="1000" height="700">
